@@ -181,7 +181,7 @@ Based on the findings from the analysis, the following recommendations are propo
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates practical Excel-based business analytics skills, including:
 
